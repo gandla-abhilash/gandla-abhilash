@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm GANDLA ABHILASH</h1>
 
 <h3 align="center">
