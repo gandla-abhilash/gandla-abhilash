@@ -24,8 +24,6 @@ Building scalable web applications, exploring AI, and solving Data Structures & 
 - Microservices
 - AI & LLM Applications
 
-🎯 Goal
-> To become a Software Engineer at a Product-Based Company.
 
 ---
 
